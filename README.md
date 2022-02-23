@@ -14,7 +14,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - GitHub: [@lily-coder](https://github.com/lily-coder)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Chimwemwe Sinyinza**
+👤 **Ellis Ngona**
 - GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Ellis Ngona)
 ## 🤝 Contributing
